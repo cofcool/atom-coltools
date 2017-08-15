@@ -1,0 +1,58 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle colutils",
+        "command": "colutils:toggle"
+      },
+      {
+        "label": "covert comments",
+        "command": "colutils:covert"
+      },
+      {
+        "label": "upper case",
+        "command": "colutils:upper"
+      },
+      {
+        "label": "lower case",
+        "command": "colutils:lower"
+      },
+      {
+        "label": "md5",
+        "command": "colutils:md5"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "colutils",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "colutils:toggle"
+            },
+            {
+              "label": "covert comments",
+              "command": "colutils:covert"
+            },
+            {
+              "label": "upper case",
+              "command": "colutils:upper"
+            },
+            {
+              "label": "lower case",
+              "command": "colutils:lower"
+            },
+            {
+              "label": "md5",
+              "command": "colutils:md5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

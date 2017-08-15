@@ -1,0 +1,19 @@
+{
+  "name": "colutils",
+  "main": "./lib/colutils",
+  "version": "0.1.0",
+  "description": "usually Utilities",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "colutils:toggle"
+  },
+  "repository": "https://github.com/cofcool/colutils",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "blueimp-md5": "^2.8.0"
+  }
+}
