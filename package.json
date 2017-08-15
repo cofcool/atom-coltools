@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "colutils:toggle"
   },
-  "repository": "https://github.com/cofcool/colutils",
+  "repository": "https://github.com/cofcool/atom-coltools",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
