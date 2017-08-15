@@ -1,9 +1,11 @@
 {
   "name": "atom-coltools",
   "main": "./lib/colutils",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "usually Utilities",
-  "keywords": ["utilities"],
+  "keywords": [
+    "utilities"
+  ],
   "activationCommands": {
     "atom-workspace": "colutils:toggle"
   },
