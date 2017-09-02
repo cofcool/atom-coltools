@@ -20,6 +20,9 @@
       {
         "label": "md5",
         "command": "colutils:md5"
+      }, {
+        "label": "Kindle Clippings formatter",
+        "command": "colutils:splitKindleClippings"
       }
     ]
   },
@@ -49,6 +52,9 @@
             {
               "label": "md5",
               "command": "colutils:md5"
+            }, {
+              "label": "Kindle Clippings formatter",
+              "command": "colutils:splitKindleClippings"
             }
           ]
         }
